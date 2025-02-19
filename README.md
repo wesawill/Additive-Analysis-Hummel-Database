@@ -17,7 +17,7 @@ These are the confusion matrices showing misclassification with respect to class
 # FEDS Corroboration
 This folder contains the code to perform the searching analysis (Retrofitted-AdditiveAanlysis) for the polymers in the sample as well as the FEDS transform which accentuates hidden peaks within the spectra. In addition, Miller's biological data was excised from their dataset to detect biological material as an additional control in the experiment. The "UnknownLabels" file is the top ten ranks for the microplastics collected in the study. We processed the data after we realized elemental carbon would, expectedly, result in a large similarity score (low number of peaks/carbon-containing polymers).
 
-# MATALB Scripts
+# MATLAB Scripts
 The scripts contain the .m and .pdf versions of the code that train the neural networks based on pictorial spectral data. The other scripts can generate new pictorial graphical data, output existing data, and label softmax output.
 
 # Pictorial Data
